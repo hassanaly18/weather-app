@@ -11,6 +11,7 @@ const Landing = () => {
         </p>
         <button>
             Get Started
+            
         </button>
     </div>
   )
